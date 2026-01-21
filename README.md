@@ -15,7 +15,7 @@
 * Time limit: when to end the game
 	* I would like to avoid an endless campaign that just peters out.
  	* During game play you will get a feel for the world and create a long-term goal for them to achieve		
-• Content warning: whimsy and horror, please tell me of any additions or exclusions
+* Content warning: whimsy and horror, please tell me of any additions or exclusions
 	* Whimsy and Horror in equal measure, German Fairy tales
 	* Fantasy Violence
 	* Cannibalism
