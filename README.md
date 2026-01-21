@@ -35,7 +35,7 @@
 	* Anything opposing the above (e.g. work with the Drune and/or Witches, bring down the Church etc)
 	* A combination of the above
 	* Dungeoneers and fortune seekers
- 	* Exploration
+	* Exploration
 * Creating characters and the group
 	* I don’t like to limit any choices but the character need to fit into the setting and the group
 		* No OSE classes/races for the first character
