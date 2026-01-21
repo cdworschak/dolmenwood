@@ -1,5 +1,11 @@
 # Dolmenwood campaign details and overview
 
+## responses
+* Sarah/Gabe
+	* native exploreres and fortune seekers, focus on sandbox play
+* Will
+	* osr sandbox treasure hunt, gold-for-xp, emergent plot if any
+
 ## useful links
 [Welcome to Dolmenwood PDF](https://necroticgnome.com/products/welcome-to-dolmenwood)
 
@@ -64,10 +70,4 @@
 	* XP for enemies as listed
 	* "Feats of exploration"-style XP sources to incentivise exploration
 		* Exploring new locations, entering new settlements for the first time, finding secrets, following rumours, meeting factions etc.
-* Death's Door optional rule, DPG p.168 (2-6 chance to die every round until dead or healed; permanent loss of attribute after)
-  
-# Responses
-* Sarah/Gabe
-	* native exploreres and fortune seekers, focus on sandbox play
-* Will
-	*  osr sandbox treasure hunt, golf-for-xp, emergent plot if any
+* Death's Door optional rule, DPG p.168 (2-6 chance to die every round until dead or healed; permanent loss of attribute after)  
