@@ -11,6 +11,8 @@
 
 [Dolmenwood SRD](https://www.dolmenwood.necroticgnome.com/rules/doku.php?id=start)
 
+[Character generator](https://www.dolmenwood.necroticgnome.com/characters/)
+
 ## questions and guardrails
 * Please read the Welcome to Dolmenwood PDF first to give you context
 	* Check out the media touchstones, which most resonate with you?
