@@ -1,7 +1,12 @@
-# Dolmenwood campaign
+# Dolmenwood campaign details and overview
+
+## useful links
+[Welcome to Dolmenwood PDF](https://necroticgnome.com/products/welcome-to-dolmenwood)
+
+[Dolmenwood SRD](https://www.dolmenwood.necroticgnome.com/rules/doku.php?id=start)
 
 ## questions and guardrails
-* Please read the Welcome to [Dolmenwood PDF](https://necroticgnome.com/products/welcome-to-dolmenwood) first to give you context!
+* Please read the Welcome to Dolmenwood PDF first to give you context
 	* Check out the media touchstones, which most resonate with you?
 * Campaign Type: what is your preference
 	* Sandbox with Background Plots (the world will move on if not interacted with, might not affect the players directly)
@@ -60,3 +65,9 @@
 	* "Feats of exploration"-style XP sources to incentivise exploration
 		* Exploring new locations, entering new settlements for the first time, finding secrets, following rumours, meeting factions etc.
 * Death's Door optional rule, DPG p.168 (2-6 chance to die every round until dead or healed; permanent loss of attribute after)
+  
+# Responses
+* Sarah/Gabe
+	* native exploreres and fortune seekers, focus on sandbox play
+* Will
+	*  osr sandbox treasure hunt, golf-for-xp, emergent plot if any
