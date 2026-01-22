@@ -5,6 +5,11 @@
 	* native exploreres and fortune seekers, focus on sandbox play
 * Will
 	* osr sandbox treasure hunt, gold-for-xp, emergent plot if any
+* Cyrill
+	* Campaign Style: I've always preferred sandboxes with a bit of player agency. Meta Quests are my favourites to both play and run.
+	* Time Limit: I am more an event style when player action can actively change the course or speed of an overarching meta-event.
+	* Campaign focus: Fighting against an ancient evil that has us exploring the world collecting, activating or even Destroying collectables as part of a meta quest to delay this force.
+	* Cohesive group concept: Explorers chimes with me. but now with the whole not start knowing each other makes me think we might have our home town/village/settlement attacked and we are given the same objective that leads us to the same place at the same time with the same goal.
 
 ## useful links
 [Welcome to Dolmenwood PDF](https://necroticgnome.com/products/welcome-to-dolmenwood)
