@@ -53,6 +53,7 @@
 		* Outsiders or Natives  		
 	* Honour restrictions on classes, be mindful that fey and demi-fey have mechanical effects against them in certain regions of the map
 	* Standard creation rules apply
+    * Slot based encumbrance
 	* In some places being any of the kins might give you a social disadvantage but being found out to be fey can be dangerous around zealous folk anywhere
 
 ## general information
