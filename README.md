@@ -1,5 +1,18 @@
 # Dolmenwood campaign details and overview
 
+## lankshorn rumours
+* King’s Mounds: The burial mounds in the woods to the south-east (0810) were originally built by the folk of the ancient King Hoarth, who would inter honoured warriors in woodland graves
+* Nightworms: If you travel east along the Ditchway, make sure to stay off the road at night. The woods are teeming with giant red worms that crave human flesh (0809)
+* The grimalkin’s revenge: The grimalkin proprietor of Bogway’s, Whimsly Bobblefrock, was bested in a game of cards by the illustrious Madame Shantywood. The vengeful fairy now hates Shantywood and is plotting a grisly doom for her.
+
+## general rumours
+* Rise of the talking beasts: The population of sapient beasts in Dolmenwood is growing, especially in the northern valley now known as the “Valley of Wise Beasts.” It is feared that some unknown force is rallying the talking beasts, preparing to overrun the forest and wrest town and bower from their rightful owners.
+* Spies of the Cold Prince: There are reports of frost-clad fairies upon the roads of Dolmenwood—undoubtedly servants of the Cold Prince. It is claimed that these frigid elves will trade icy jewels and fairy silver in exchange for information about what goes on in the deep woods
+* The dead in Dolmenwood: A curious property of Dolmenwood is that the souls of those who die there retain their connection to the corpse indefinitely. This is known, in scriptural terms, as “mortalism” and is a phenomenon of some dispute within the Pluritine Church. It is only through the careful ministrations of the order of Saint Signis the Silent (also known as the order of Lichwards) that the dead are put to rest.
+* The Drunes’ vengeance: Red-eyed ravens and ghostly owls have been spied congregating around graveyards. This is an omen that the wrath of the Drune is turning toward the Pluritine Church, in reprisal for the recent attacks on the brotherhood by the witch-hunters of the order of St Faxis.
+* The Nag-Lord moves south: Crookhorns have been sighted in the vicinity of the ruined abbey of St Clewyd of late, far to the south of their master’s dominion. The folk of Prigwort mutter fearfully of war. Word has it that the duke’s forces are massing in the town in anticipation of an attack.
+* The wizard of Prigwort: A magician by the name of Droobe makes his home within the town of Prigwort. It is said that he is amenable to visitors seeking his arcane knowledge and is willing to place or lift curses for a fee. It is believed that his magic is responsible for the otherworldly quality of the spirits brewed in Prigwort.
+
 ## responses
 * Sarah/Gabe
 	* native exploreres and fortune seekers, focus on sandbox play
