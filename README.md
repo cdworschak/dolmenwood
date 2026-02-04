@@ -1,3 +1,37 @@
+# sessions
+
+## session 1
+* present: David, Matt, Will
+* absent: Cyril, Gabe, Sarah
+* XP from gold / player present:		1774
+* XP from enemies / player present:		95
+* treasure (total) - please note, besides actual coin, you have to convert or barter for the treasure before using it to buy anything
+	* 400 gp from Seargant Marge for the missing person and sighting of Crookhorns
+ 	* pair of amber-studded bracelets of twisted gold (750gp each)
+  	* sack of 200 sp
+  	* sack of 500 gp
+  	* golden owl torc (150 gp)
+  	* scroll (not identified)
+  	* fairy silver ring with an eye shaped topaz (700 gp)
+  	* orange crystal (50gp)
+  	* fairy silver chalice (2000 gp)
+  	* potion/liquid from chalice - not identified
+
+**Pipes on Droomen Knoll**
+The group approached the Fairy ruin on Droomen Knoll on the side of the Ditchway east of Lankshorn looking to verify rumours of Crookhorns and to find the missing Vicar Dobbey's maidservant Maddie.
+
+They find and kill the Crookhorns with a lot of luck and help from the Thief's flute. 
+
+The rescue Maddie from the lair and manage to solve the puzzle left behind by Lord Mallowheart and willingly free an Elf that is most thankful, yet disturbing.
+
+The cleric Joremy contracts some kind of disease from the Crookhorns and now has an itchy eye.
+
+They find a dead Drune, killed by a fall and/or Stirges on whom they find an orange crystal, which gives them an ominous vision: "Doom over the Hleribuck - The dead Soreror will rise again!"
+
+On the Crookhorn leader they find a note mentioning a local contact to be met in two days time at night in Lankshorn - Rodger Burl
+
+They are on their way back to Lankhorn at this moment with Maddie.
+
 # Dolmenwood campaign details and overview
 
 ## lankshorn rumours
