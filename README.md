@@ -7,7 +7,7 @@
 * XP from enemies / player present:		95
 * treasure (total) - please note, besides actual coin, you have to convert or barter for the treasure before using it to buy anything
 	* 400 gp from Seargant Marge for the missing person and sighting of Crookhorns
- 	* pair of amber-studded bracelets of twisted gold (750gp each)
+	* pair of amber-studded bracelets of twisted gold (750gp each)
   	* sack of 200 sp
   	* sack of 500 gp
   	* golden owl torc (150 gp)
