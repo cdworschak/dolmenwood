@@ -65,6 +65,8 @@ They are on their way back to Lankhorn at this moment with Maddie.
 
 [Character generator](https://www.dolmenwood.necroticgnome.com/characters/)
 
+[Carousing and Charity](Dolmenwood-Carousing.pdf)
+
 ## questions and guardrails
 * Please read the Welcome to Dolmenwood PDF first to give you context
 	* Check out the media touchstones, which most resonate with you?
