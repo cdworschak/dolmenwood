@@ -1,5 +1,32 @@
 # sessions
 
+## session 2
+
+* present: all
+* XP from treasure / player: 3
+	* Silver holy symbol (15gp)
+* XP from rumours / player: 200 (Mind-addling substances, true)
+* XP from deeds / player 400 (follow leads to Lankston and enter new hex, gather clues, find out about Bog Corpses etc.)
+* new rumours encountered:
+	* The dukes’ sinister pact: In ancient times, the Dukes of Brackenwold made pact with the secret gods of the Wood, being granted rulership over all of Dolmenwood for forty-four generations, in exchange for their souls after death. This time span has almost expired and it is surmised that ruin will soon befall the duke and his family.
+	* Mind-addling substances: The local apothecary has begun stocking a range of weird substances. The proprietor, Sydewich Maldwort, makes regular trips to Dreg to acquire these compounds (and doubtless to also indulge in the pleasures the port-town has to offer).
+
+The group returned to Lankshorn in time before sun-down with Maddie who they take back straight to the vicarage. They wait for Seargent Marge to leave the guard station to avoid Rodger Burl.
+
+Maddie brings to their attention that the Vicar is gone and has either left and taken all his things or they were robbed and he was kidnapped. 
+With everyone's help they find that the Vicar must have left on his own; leaving behind his holy symbol.
+
+The group meet fully for the first time and investigate the Vicar's disappearance as well as waiting for the Sgt. To leave her station. They find her alone after her shift ends and tell her about the findings at the knoll. She pays out the reward as agreed and tells them of more disappearances:
+Farnham Ribblemead the Sage, and Emelda, a local girl that sometimes sings at the inn.
+
+The check Rodgers room and find the same human tallow candles hidden away as they had seen on the Knoll. A note written in crude Gaffe leads them to Lankston: "We meet at Lankston on Frisk in the evening to retrieve the hand."
+
+They go to the local inn and hear from the landlady about the disappearances and her missing tenant Farnham. She confirms he did not leave by his own will because he'd rather die than leave his books behind.
+
+After a night of drink, music, and rumours they sleep at the inn and make their way to Lankston the next  day.
+
+Near Lankston Pool they see a camp for one person with no one present. Many footprints leading to and from the water. As they approach the water 5 bog corpses leave the water and get closer, the Bard warns of the stories told about these Undead.
+
 ## session 1
 * present: David, Matt, Will
 * absent: Cyril, Gabe, Sarah
