@@ -1,12 +1,40 @@
 # sessions
 
+## session 3
+
+* present: all but Matt
+* XP from treasure / player: 200
+	* Sticky Gilly (4)
+* XP from deeds / player: 125
+	* find out about Lankston and St Howaerth's Hand via Elisa's ghost; find Rodger's body; follow up on Farnham's disappearance; find the passage in the Church; pray at the Altar of St Pastery; learn about Sticky Gilly and where to buy it
+* XP from enemies / player: 82
+	* bog corpses
+* total XP / player: 407
+
+The group moves away from the bog corpses until they reach a copse of elm trees. The undead stop and they take a few pot shots. They meet the ghost of Elisa, a girl from Lankston who tells them about the reliquiary of St Howaerth in the church.
+They assume that the hand the crookhorns and Rodger are looking for and the holy reliquiary are one and the same. They cannot see a way forward withthe undead as there might just be more and more and they will run out of arrows soon.
+They use string alcohol from Rodger's backpack to ignite one of the undead who runs towards the water and explodes upon destruction.
+
+They choose to walk around the pool near the tree line to investigate the area and find Rodgers body on the other side of the pool, strangled to death. They find this out by distracting the undead which are still following them.
+They do not have enough time to properly search Rodger and leave his corpse to be destroyed by the undead which retreat after being satisfied with his flesh. Rodger gets a quick, ad-hoc burial, just in case.
+
+Upon return to town at night they get a bath and Gwynn goes to exchange some hares and mushrooms for a bottle of Nipper to mess with Newton.
+
+The rest of the group tries to investigate the Sticky Gilly, ask about Farnham and Emelda, and just have a quiet night.
+
+The next day they go to the apothecary to identify the Sticky Gilly and find out it gets sold in the Woodcutters encampment north of Dreg (to the east).
+Joremy prays for the blessing of St Pastery and heals his eye.
+Tristan takes a look at Farnham's room/study and finds correspondence with a Mr. Gryphius who wants him to translate a tome written in Oggam, and ancient Breggle dialect - mostly still present in arcane and occult tomes.
+Joremy searches the church and find a font is moveable and underneath spots a hole, as well as an auburn lock of hair, which fits the description of Emelda Wishorn, the girl with th beatiful voice.
+
 ## session 2
 
 * present: all
 * XP from treasure / player: 3
 	* Silver holy symbol (15gp)
-* XP from rumours / player: 200 (Mind-addling substances, true)
-* XP from deeds / player 400 (follow leads to Lankston and enter new hex, gather clues, find out about Bog Corpses etc.)
+* XP from rumours / player: 33.3 (Mind-addling substances, true)
+* XP from deeds / player 66.6 (follow leads to Lankston and enter new hex, gather clues, find out about Bog Corpses etc.)
+* total XP / player: 103
 * new rumours encountered:
 	* The dukes’ sinister pact: In ancient times, the Dukes of Brackenwold made pact with the secret gods of the Wood, being granted rulership over all of Dolmenwood for forty-four generations, in exchange for their souls after death. This time span has almost expired and it is surmised that ruin will soon befall the duke and his family.
 	* Mind-addling substances: The local apothecary has begun stocking a range of weird substances. The proprietor, Sydewich Maldwort, makes regular trips to Dreg to acquire these compounds (and doubtless to also indulge in the pleasures the port-town has to offer).
