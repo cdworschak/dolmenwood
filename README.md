@@ -1,5 +1,24 @@
 # sessions
 
+## session 4
+
+* present: all
+* XP from deeds / player: 60
+	* find and explore the old tunnel to the shadholme; speak to the teenagers and find connection between Emelda and Vicar Dobey; speak to the grounds keeper and find a hatch; explore the church/chapel and find a keyhole; "speak" to kitchen staff and hear about ELiza and the hatch in the kitchen
+* total XP / player: 60
+
+The Hleribuck celebrations are about to start and the group make some new friends. 
+
+They visit the Nuncle Stones near town and speak to the teenagers/kids there and hear about Vicar Dobey bothering Emelda in the past.
+
+They explore the old tunnel under the church that leads to the Shadholme estate and see that someone and something has been moved through this tunnel for a while now.
+
+The group keep hidden besides Newton and Bagnack:
+* Newton explores a Church/Chapel that look well kept but unused with Caprice wruting above the entrance way; he finds a keyhole hidden on the altar and makes sure one of the window latches is broken so they can get back in later
+* Bagnack is found by the groundskeeper and mistaken for one of the band members; he strolls into the kitchen and plays the flute to have some of the staff reveal some secrets which confirm that someone was using the kitchen hatch to get into the basement and that Eliza is down there.
+
+They return to town via the tunnel and decide to wait for the Hleribuck proper the next day to not draw any more attention
+
 ## session 3
 
 * present: all but Matt
