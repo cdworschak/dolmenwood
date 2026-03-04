@@ -32,7 +32,7 @@ They attack the alchemist and her helpers swiftly and take her out before she ca
 
 They use their scroll of decipher to translate the alchemists notes and get clear instructions on what the potions and ingredients on her shelf are as well as information about the ritual and Eliza.
 
-Exploring a stairway they find the way up into the salon of the lodge. A door to the east reveals insects buzzing and an atrophied corpse  - the same direction poor Eliza is supposed to be, the somelier that was turned into a spider.
+Exploring a stairway they find the way up into the salon of the lodge. A door to the east reveals insects buzzing and an atrophied corpse - the same direction poor Eliza is supposed to be, the somelier that was turned into a spider.
 
 To the north they are being told is a bile wyrm, used as an ingredient, to the south the stairs to Malbleat. There they encounter two Devil Goats which give them a tough fight but one escapes trying to flee running to the east.
 
