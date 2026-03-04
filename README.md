@@ -1,8 +1,44 @@
 # sessions
 
+## session 5
+
+* absent: Matt and Sarah
+* XP from treasure / player: 1067 (you're not safe yet)
+	* 5 crystal jugs used for alchemy (200gp each); a pair of ruby encrusted daggers (1000gp each); 20x various alchemical agents (10gp each)
+* XP from deeds / player: 67
+	* learnt about Malbleats plans and how Farnham and Emelda are connected; 
+* XP from enemies / player: 157
+	* Alchemist (180); 4 guards (40); 2 assisstants (20); devil goats (230)
+* total XP / player: 224
+
+After some stocking up the group decides to use the early ours of the morning to infiltrate the Shadholme grounds.
+
+Newton creates a diversion and they manage to get into the old chapel. They find the key for the key-hole at the back of the altar under the rug in the church.
+
+The altar can now be moved aside on rails and shows a hidden tunnel leading down on metal rungs. They all squeeze down the tunnel and hear voices on the other side of what looks like a secret door.
+
+They charge out and use magic flare and surprise to overwhelm 4 short horn guards, they take them out without spilling blood but make a lot of noise.
+
+The group proceeds to move the bodies of the guards into a storeroom/alchemical lab nearby to avoid detection. This is where they hear those they woke, a female and two male breggles who seem quite unhappy at being woken up.
+
+In the lab they find that someone made red sprites into a fermented paste to use in alchemical procedures which enrages Newton.
+
+After the dust settles they sneak across the hallway and find Farnham Ribblemead in a cell - they free him and he tells him all about the ritual and Emelda's whereabouts:
+
+Malbleat is trying to ressurect his ancestor the necromancer Wrygott Gnarlgruff; Farnham translated the ritual for him but snuck in some subtle errors, he does not know what effect this will have.
+Emelda is to be given a potion and sing while the ritual is being held. Malbleat is downstairs guarded by Skeletons getting ready for the ritual.
+
+They attack the alchemist and her helpers swiftly and take her out before she can cast a spell - her assistans are left alive after they yield. They destroy the machines and setup for the making of the potion.
+
+They use their scroll of decipher to translate the alchemists notes and get clear instructions on what the potions and ingredients on her shelf are as well as information about the ritual and Eliza.
+
+Exploring a stairway they find the way up into the salon of the lodge. A door to the east reveals insects buzzing and an atrophied corpse  - the same direction poor Eliza is supposed to be, the somelier that was turned into a spider.
+
+To the north they are being told is a bile wyrm, used as an ingredient, to the south the stairs to Malbleat. There they encounter two Devil Goats which give them a tough fight but one escapes trying to flee running to the east.
+
 ## session 4
 
-* present: all
+* absent: none
 * XP from deeds / player: 60
 	* find and explore the old tunnel to the shadholme; speak to the teenagers and find connection between Emelda and Vicar Dobey; speak to the grounds keeper and find a hatch; explore the church/chapel and find a keyhole; "speak" to kitchen staff and hear about ELiza and the hatch in the kitchen
 * total XP / player: 60
@@ -21,7 +57,7 @@ They return to town via the tunnel and decide to wait for the Hleribuck proper t
 
 ## session 3
 
-* present: all but Matt
+* absent: Matt
 * XP from treasure / player: 200
 	* Sticky Gilly (4)
 * XP from deeds / player: 125
@@ -48,7 +84,7 @@ Joremy searches the church and find a font is moveable and underneath spots a ho
 
 ## session 2
 
-* present: all
+* absent: none
 * XP from treasure / player: 3
 	* Silver holy symbol (15gp)
 * XP from rumours / player: 33.3 (Mind-addling substances, true)
@@ -75,8 +111,7 @@ After a night of drink, music, and rumours they sleep at the inn and make their 
 Near Lankston Pool they see a camp for one person with no one present. Many footprints leading to and from the water. As they approach the water 5 bog corpses leave the water and get closer, the Bard warns of the stories told about these Undead.
 
 ## session 1
-* present: David, Matt, Will
-* absent: Cyril, Gabe, Sarah
+* absent: Sarah, Gabe, Cyril
 * XP from gold / player present:		1774
 * XP from enemies / player present:		95
 * treasure (total) - please note, besides actual coin, you have to convert or barter for the treasure before using it to buy anything
