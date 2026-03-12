@@ -4,6 +4,42 @@
 
 # sessions
 
+## session 6
+
+* absent: Matt
+* XP from treasure / player: 200
+	* 2 x ruby encrusted collars (400 each)
+* XP from deeds / player: 200
+	* uncover and foil Malbleats plan; escape unharmed; rescue both Emelda and Farnham
+* XP from enemies / player: 115
+	* 4 x soldiers (10xp); 4 x skeletons (40xp); Malbleat (260xp)
+* total XP / player: 515
+* extra XP for Gabe, David, Will from last session each: 1067
+
+After dealing with the devil goats they grab their valuable collars and continue down the stairs towards Malbleat.
+
+Newton takes an invisibility potion and scouts ahead. He finds four skeletons guarding a door in a dark burial chamber with many niches mirroring the room above.
+
+Joremy, with the power of the one-true-god(TM) destroys the skeletons outright.
+
+They search the niches and find a key to open the doors ahead which leads to an ante chamber with partially opened doors, emitting an ominous glow.
+
+Newton slips into the room alerting Malbleat, while the others get into positon near the door ways, ready to strike.
+
+The Magician rescues Emelda from her stupor using the potion whike Malbleat approaches the doors.
+
+The spring their trap and Malbleat uses magic of some kind to escape, clutching one of his rings.
+
+They break free Emelda and try to destroy the book Malbleat was reading from. No luck so they take it.
+
+Now trying to flee the scene, they find more guards have arrived above, but they manage to intimidate them and escape throgh the tunnel they used to get in.
+
+Outside Newton, still invisible, lays a fire to the wooden festival setup creating enough chaos for them to all flee to the church.
+
+There met by Maddie they decide to flee town as fast as possible. They convince Farnham and Emelda to join them as they are not safe in town or anywehere near Malbleat.
+
+They make their way down the swallop road, hastily disguised, getting to High Hankle by sundown, exhausted.
+
 ## session 5
 
 * absent: Matt and Sarah
