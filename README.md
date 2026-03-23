@@ -4,6 +4,29 @@
 
 # sessions
 
+## session 7
+
+* absent: N/A
+* XP from deeds / player: 145 XP
+	* deal with the book; new lead: mind moss ; meet and interact with the Commander of the order of St Signis; learn about and confirm rumour about Murderman; learnt about Nuncle Stones on Lankshorn from pixies
+* extra XP for everyone: 6 XP because Gabe really needed those extra XP ;)
+* total XP / player: 151 XP
+
+The group arrived in High Hankle and made for the Chantry Inn and cleaned themselves up. Joremy and Tristan went to the Silent Tower to perhaps gain help from the Order of St. Signis.
+
+All of them including Ribblemead and Emelda find themselves in the Silent Tower over night where they get questioned and asked to sign statements.
+
+The next few days are about turning their treasures into gold and buying new equipment including Mules Bill and Ted as well as a cart. AS well as many new rumours.
+
+They help the four Pixies they rescued from the crypts and in return they tell them about the direction to the next ley line as well as the nature of the Nuncle Stones: a portal in the air, made by witches in ancient times
+
+An alchemist at the broken cauldron helps them find a lead on mind moss: Nodding castle to the west. so they follow the bove road.
+
+They follow up on a lead for a Mr. Murderman that apprently sells magic garments, and so he does. They make new friends and head off the next day.
+
+Almost at Nodding Castle they find a strange tent with a purple Snail on a banner. Inside they meet Smalding Borotrope a rotund human man with slimy skin, a wiry moustache, and a preposterous hat. He gives them tea that heals somew XP and tells preosterous stories. They pitch their tent nearby and spend the night.
+
+
 ## session 6
 
 * absent: Matt
