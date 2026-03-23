@@ -1,5 +1,11 @@
 # Dolmenwood campaign details and overview
 
+## high hankle rumours
+* The Orange: Sir Hoarsent Waverly is the Baron’s closest friend and the finest knight in the land. Despite his frequent romantic dalliances, there is talk someone has finally captured his heart
+* A like friend: Lord Malbleat has been seen in the company of the Baron, bonding with a fellow aesthete. In private, the Baron has promised to help the longhorn get the upper hand in his conflict with Lord Ramius.
+* The magpies: A gang of humans dressed as magpies has been attacking merchant caravans as they travel along the Swallop Road (0611). After their successful robberies, they turn into real magpies and fly away.
+* The animal orchestra: Near Lankshorn, along Swallop Road (0710), is a farmyard where one can witness an elaborate and wondrous animal orchestra. The animals’ musical talent is due to them actually being transformed people.
+
 ## lankshorn rumours
 * King’s Mounds: The burial mounds in the woods to the south-east (0810) were originally built by the folk of the ancient King Hoarth, who would inter honoured warriors in woodland graves
 * Nightworms: If you travel east along the Ditchway, make sure to stay off the road at night. The woods are teeming with giant red worms that crave human flesh (0809)
@@ -13,17 +19,6 @@
 * The Nag-Lord moves south: Crookhorns have been sighted in the vicinity of the ruined abbey of St Clewyd of late, far to the south of their master’s dominion. The folk of Prigwort mutter fearfully of war. Word has it that the duke’s forces are massing in the town in anticipation of an attack.
 * The wizard of Prigwort: A magician by the name of Droobe makes his home within the town of Prigwort. It is said that he is amenable to visitors seeking his arcane knowledge and is willing to place or lift curses for a fee. It is believed that his magic is responsible for the otherworldly quality of the spirits brewed in Prigwort.
 
-## responses
-* Sarah/Gabe
-	* native exploreres and fortune seekers, focus on sandbox play
-* Will
-	* osr sandbox treasure hunt, gold-for-xp, emergent plot if any
-* Cyrill
-	* Campaign Style: I've always preferred sandboxes with a bit of player agency. Meta Quests are my favourites to both play and run.
-	* Time Limit: I am more an event style when player action can actively change the course or speed of an overarching meta-event.
-	* Campaign focus: Fighting against an ancient evil that has us exploring the world collecting, activating or even Destroying collectables as part of a meta quest to delay this force.
-	* Cohesive group concept: Explorers chimes with me. but now with the whole not start knowing each other makes me think we might have our home town/village/settlement attacked and we are given the same objective that leads us to the same place at the same time with the same goal.
-
 ## useful links
 [Welcome to Dolmenwood PDF](https://necroticgnome.com/products/welcome-to-dolmenwood)
 
@@ -32,44 +27,6 @@
 [Character generator](https://www.dolmenwood.necroticgnome.com/characters/)
 
 [Carousing and Charity](Dolmenwood-Carousing.pdf)
-
-## questions and guardrails
-* Please read the Welcome to Dolmenwood PDF first to give you context
-	* Check out the media touchstones, which most resonate with you?
-* Campaign Type: what is your preference
-	* Sandbox with Background Plots (the world will move on if not interacted with, might not affect the players directly)
-	* or: Plot-driven (like modern DnD, you are the main characters)
-	* or: fully Player-Driven (no background plots, just player action and agency)
-* Time limit: when to end the game
-	* I would like to avoid an endless campaign that just peters out.
- 	* During game play you will get a feel for the world and create a long-term goal for them to achieve		
-* Content warning: whimsy and horror, please tell me of any additions or exclusions
-	* Whimsy and Horror in equal measure, German Fairy tales
-	* Fantasy Violence
-	* Cannibalism
-	* Body-horror
-* Campaign focus, all the below exists, but what do we care about
-	* Nobility, Intrigue and Politics
-	* Fight against the ancient evil
-	* Return of the old enemy (open war)
-	* Restoring the church
-	* Destroy the Drune and/or Witches
-	* Anything opposing the above (e.g. work with the Drune and/or Witches, bring down the Church etc)
-	* A combination of the above
-	* Dungeoneers and fortune seekers
-	* Exploration
-* Creating characters and the group
-	* I don’t like to limit any choices but the character need to fit into the setting and the group
-		* No OSE classes/races for the first character
-	* possible group concepts and archetypes
-		* Mercenaries or Heroes
-		* Explorers or Colonisers
-		* Agents of a power or Free agents
-		* Outsiders or Natives  		
-	* Honour restrictions on classes, be mindful that fey and demi-fey have mechanical effects against them in certain regions of the map
-	* Standard creation rules apply
-    * Slot based encumbrance
-	* In some places being any of the kins might give you a social disadvantage but being found out to be fey can be dangerous around zealous folk anywhere
 
 ## general information
 * Open table, one character at a time, feel free to make backup characters
