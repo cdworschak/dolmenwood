@@ -4,6 +4,37 @@
 
 # sessions
 
+## session 8
+
+* absent: Matt
+* XP from treasure / player: 300 XP
+	* 12x raw mind moss (1200 GP)
+* XP from deeds / player: 120 XP
+	* found the mind moss and explored a hex; visited Nodding castle
+* XP from enemies / player: 26 XP
+	* 3 burrowing beetles
+* total XP / player: 446 XP (5%: 468; 10% 490 15% 512)
+
+After a good night's sleep the last watch nods off for a second and the strange tent disappears, not even leaving an indent in the grass.
+
+Newton still has strange visions of a snail covered in purple moss in a ditch and they search the area for it: near the edge of the woods in a ditch they find a giant 10' snail shell that seems occupied.
+
+They telepathically converse with the inhabitant who asks them about wether they liked their dream (Smalding Borotrope) and how to improve on it. They share moss and and name it "Timothy".
+
+The group moves on to the nearby Nodding castle and find the place a godless and almist lawless backwater. Joremy vows to bring this to the attention of the church.
+
+At the castle they find that the moat is deeper than it needs to be and seems to be having some kind of creature living inside. The undead as they find out.
+
+They bribe their way into the castle and make camp and have a look around, hearing about strange rumours and watching the performers who gathered. Finding strange things going on in the castle they are intrigued but want to move on, which they do the next day.
+
+They move north east towards lake longmere, trying to get to Prigwort via church land and intersecting as little as possible with Malbleats territory. 
+
+North east of the castle (0310) they get into a strange area covered in dead earthen mounds with rocks brought from another land with faces carved on them. They disturb burrowing beetles which they dazzle and quckly leave behind.
+
+After some more trekking they come across the hamlet of Galblight on the High Road and they decide to spend the night in the Inn, a repurposed gaol. At night they see Shorthorns knockin on doors, seemingly moving with their eyes closed.
+
+The next morning the inn keeper does not wanto to discuss it and asks them to speak to the garrisonCaptain instead. They prepare to continue on furthe north east.
+
 ## session 7
 
 * absent: N/A
