@@ -50,4 +50,6 @@
 	* XP for enemies as listed
 	* "Feats of exploration"-style XP sources to incentivise exploration
 		* Exploring new locations, entering new settlements for the first time, finding secrets, following rumours, meeting factions etc.
-* Death's Door optional rule, DPG p.168 (2-6 chance to die every round until dead or healed; permanent loss of attribute after)  
+* Death's Door optional rule, DPG p.168 (2-6 chance to die every round until dead or healed; permanent loss of attribute after)
+* New characters after death of current character: level of new character is old character level minus 1; XP are reset to minimum of that new level or your current, whatever is lower; minimum level is 1;
+	*  e.g.: thief character at level 3 dies (2420 XP), your new character is level 2 with minimum XP for that new class, but you choose a Magician, which needs 2500 for level 2, so your new character is level 1 about to level up
