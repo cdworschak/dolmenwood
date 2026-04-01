@@ -4,6 +4,42 @@
 
 # sessions
 
+## session 9
+
+* absent: Gabe, Sarah
+* XP from treasure / player: 0 XP (not yet in safety)
+	* Hob's lewd (15gp); ring* ; knot-work engraved bracelet (200gp)
+* XP from deeds / player: 83 XP
+	* entered 4 new hexes (200); Barrow Bogeys do not brew potions in their pots (50)
+* XP from enemies / player: 450 XP
+	* cheese-fiend 1350 xp
+* total XP / player: 533 XP (5%: 559; 10%: 586; 15%: 612)
+
+The next morning they speak to the Garrison Captain of Glablight, Cabruc Lockehorn, a towering, bearded longhorn woman with a single glowering eye who wears pompous military dress uniform and an eyepatch.
+They ask about last nights happenings and the nearby lands with regards to travel.
+
+From her they hear about the Bicorn (0510), a terrible monster of Fey origin part bull and boar. Many years ago a war party led by Fannigrew Lockelope failed to kill it. Lord Ramius wants to tame it, she wants to get rid of it and so do many more.
+
+She tells them about Garnack the Horse (0309) who lives in his tower: a powerful longhorn. 
+
+Lastly she tells them about an abandoned chapel to the north, which is where they set off to. The overall plan is to get to Fort Vulgar and back onto the road from there to Prigwort.
+
+They move on and find the chapel (0408), but it is flodded up to 3'. They wade in and find two Gargoyled who claim to be true servants of the church and the one true god, they test Joremys knowledge: "To which saint is the bell tower of the Abbey of St
+Clewyd dedicated?" - he fails to answer and they act high and mighty. They chose to leave the chapel and return later.
+
+At night when digging for latrines they meet 11 Barrow Bogeys who are in dire need of said latrines for some reason. They invite them to use their facilities and eat and drink and party with the group. As a thank you they gift the group a portion of "Hob's Lewd" (DCB, p. 428
+The Fey also tell them abut a creature called "Colly to the north east" (0508) and not to harm her or her mushrooms.
+
+They continue on their way north past Droun Loch, and the weather turns damp and uncomfortable. Now, certain to be in Drune territory, they push onwards quickly. On the lake  they spot 3 drune in a boat fishing with lumisnescent nets.
+
+Further on (0406), on the gentle slope of a hillside sits a bright patch of white, fibrous mycelia, about 5′ square, blocking the entrance to what appears to be a cave. They stay well clear and make camp, exhausted. At night Tristan hears many boots on the ground and sees the white, polished heads of creatures just past a little mound. They stay hidden and avoid the danger.
+
+The next day they find themselves in a strange and terrible part of the forest (0405): a region where the skins of various large creatures—including breggles and humans—hang among the trees. Inside the skins: The skins are carefully sealed into sacs, bloated and distended with their strange contents: a reddish black, cheese-like substance made from blood rather than milk. The stuff has many forms (slimy, runny, stringy, hard), but smells and tastes like cheese.
+
+The monstrosity responsible for this shows itself: a 10' creature seemingly made of a cheese-like substance. It is faster than the group and its cart. They have the advantage for now and choose to distract it via Backnags flute, their ears sealed. Tristan and Joremy flank it and slice and dice, Backnag stabs it in the back. Not enough to kill it outright and it turns and spews hot moltem cheese-like substance over the group. It destroys their weapons, shields, and armour but they live, smelling of cheese and with burn marks.
+
+After a look around they find its hut where they find the remains of many more victims as well as its lair, Backnag takes a bracelet and ring off of one of the hanging corpses and they choose to destroy what's left of the hut and the monster.
+
 ## session 8
 
 * absent: Matt
@@ -33,7 +69,7 @@ North east of the castle (0310) they get into a strange area covered in dead ear
 
 After some more trekking they come across the hamlet of Galblight on the High Road and they decide to spend the night in the Inn, a repurposed gaol. At night they see Shorthorns knockin on doors, seemingly moving with their eyes closed.
 
-The next morning the inn keeper does not wanto to discuss it and asks them to speak to the garrisonCaptain instead. They prepare to continue on furthe north east.
+The next morning the inn keeper does not wanto to discuss it and asks them to speak to the garrison Captain instead. They prepare to continue on furthe north east.
 
 ## session 7
 
