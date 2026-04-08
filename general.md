@@ -42,8 +42,9 @@
 * Max HP on start, all dice re-rolled after that for each level; if new result is less than old only add one HP to old results, apply con bonus as usual after the fact
 	* e.g. old HP at level 1, d6 HD, HP => 7 (6 + 1 con); re rolled 2d6 at level 2 (result is 5, of 3+2); add 1 to the 6 at level 1 and add con mod for each level for new HP => 9 (6 + 1 + 2 con)
 * Shields and Helmets may shatter -> destroy equipment to negate deadly blow
+  * This needs to be for a mortal blow and will set your HP to 1
   * This applies to any physical damage, not spells or magical effects that affect the character directly
-  * magical items will noy be destroyed but sacrifice their magic instead
+  * magical items will not be destroyed but sacrifice their magic instead
 * XP sources
 	* XP for gold, loot the place bring it back to a safe place to get XP
 	* Carousing and charity may increase the XP value
