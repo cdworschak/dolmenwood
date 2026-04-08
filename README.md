@@ -4,6 +4,29 @@
 
 # sessions
 
+## session 10
+
+* absent: Matt
+* XP from treasure / player: 283 XP
+	* Hob's lewd (15gp); ring* ; knot-work engraved bracelet (200gp); 2 x Goatsweed (1200)
+* XP from deeds / player: 62 XP
+	* entered 3 new hexes (150); there's a hidden path and caves behind the falls of Naon, the drune protect it (100)
+* XP for Sarah, Gabe, David, Will: 345 XP (5%: 362; 10%: 379; 15%: 396)
+* XP for Matt, treasure only: 283 XP (5% 297)
+
+After a brush with death, the group moves on an makes camp for the night, exhausted and wounded.
+
+The next day they move on north east and find themselves near the isle of Yeth and Haorblight keep. The keep used to be the Cold Prince's seat of power, or so peple say.
+
+The make it to the river Hameth but are unable to cross and move north to find a fording or gap to cross it. The next day they make it to the Falls of Naon are are being watched by the Drune.
+Behind the waterfall the find caves that feel eerily familiar to Newton. The platform also leads to the other side of the falls. They take their cart apart and use the wood and rope to make ladders and other contraptions to move themselves and the Mules across the river.
+
+Joremy calms the animals with his prayers and is exhausted after finally making it across.
+
+They camp another night and move on to Fort Vulgar. On the way there they find Galoshers in a pool and Tristan falls for their tricks. The group grabs him and drag him to the settlement.
+
+There they rest up, eat, and resupply before moving on towards Prigwort on the Fort Road. On the same Road they meet "Lace-and-Polkadot" a travelling Elf Peddler.
+
 ## session 9
 
 * absent: Gabe, Sarah
