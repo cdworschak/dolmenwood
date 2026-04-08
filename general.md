@@ -1,5 +1,9 @@
 # Dolmenwood campaign details and overview
 
+## fort vulgar rumours
+* The burnt cottage: To the north, in a clearing of rotting firs, is the burnt remains of a cottage (0603). At night, strange voices whisper and murmur angrily to one another in the dark.
+* Derodand Manor: Heading up Quogg’s Creek takes you past Derodand Manor (0704), home to Lady Emelda Haeroth, a noble of House Harrowmoor. The lady lives as a recluse, hiding the skeletons of the rest of her family, whom she murdered with evil magic.
+
 ## high hankle rumours
 * The Orange: Sir Hoarsent Waverly is the Baron’s closest friend and the finest knight in the land. Despite his frequent romantic dalliances, there is talk someone has finally captured his heart
 * A like friend: Lord Malbleat has been seen in the company of the Baron, bonding with a fellow aesthete. In private, the Baron has promised to help the longhorn get the upper hand in his conflict with Lord Ramius.
