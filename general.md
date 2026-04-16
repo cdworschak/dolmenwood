@@ -1,5 +1,9 @@
 # Dolmenwood campaign details and overview
 
+## prigwort rumours
+* Brewmasters’ secret: The secret ingredient in the Brewmasters’ prize spirits is mossling bones! The bones are procured by unscrupulous gravediggers who enter mossling villages under cover of night.
+* Lady Harrowmoor’s dark secret: The nobles of Harrowmoor Keep consort with a monstrous entity in the lake, which grants them wisdom in exchange for their mortal souls. Partly true: The Harrowmoor family does consult with an entity in the lake (see 1105), but it does not claim their souls.
+
 ## fort vulgar rumours
 * The burnt cottage: To the north, in a clearing of rotting firs, is the burnt remains of a cottage (0603). At night, strange voices whisper and murmur angrily to one another in the dark.
 * Derodand Manor: Heading up Quogg’s Creek takes you past Derodand Manor (0704), home to Lady Emelda Haeroth, a noble of House Harrowmoor. The lady lives as a recluse, hiding the skeletons of the rest of her family, whom she murdered with evil magic.
@@ -20,7 +24,7 @@
 * Spies of the Cold Prince: There are reports of frost-clad fairies upon the roads of Dolmenwood—undoubtedly servants of the Cold Prince. It is claimed that these frigid elves will trade icy jewels and fairy silver in exchange for information about what goes on in the deep woods
 * The dead in Dolmenwood: A curious property of Dolmenwood is that the souls of those who die there retain their connection to the corpse indefinitely. This is known, in scriptural terms, as “mortalism” and is a phenomenon of some dispute within the Pluritine Church. It is only through the careful ministrations of the order of Saint Signis the Silent (also known as the order of Lichwards) that the dead are put to rest.
 * The Drunes’ vengeance: Red-eyed ravens and ghostly owls have been spied congregating around graveyards. This is an omen that the wrath of the Drune is turning toward the Pluritine Church, in reprisal for the recent attacks on the brotherhood by the witch-hunters of the order of St Faxis.
-* The Nag-Lord moves south: Crookhorns have been sighted in the vicinity of the ruined abbey of St Clewyd of late, far to the south of their master’s dominion. The folk of Prigwort mutter fearfully of war. Word has it that the duke’s forces are massing in the town in anticipation of an attack.
+* (P) The Nag-Lord moves south: Crookhorns have been sighted in the vicinity of the ruined abbey of St Clewyd of late, far to the south of their master’s dominion. The folk of Prigwort mutter fearfully of war. Word has it that the duke’s forces are massing in the town in anticipation of an attack.
 * The wizard of Prigwort: A magician by the name of Droobe makes his home within the town of Prigwort. It is said that he is amenable to visitors seeking his arcane knowledge and is willing to place or lift curses for a fee. It is believed that his magic is responsible for the otherworldly quality of the spirits brewed in Prigwort.
 
 ## useful links
