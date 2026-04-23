@@ -2,7 +2,7 @@
 
 ## prigwort rumours
 * Brewmasters’ secret: The secret ingredient in the Brewmasters’ prize spirits is mossling bones! The bones are procured by unscrupulous gravediggers who enter mossling villages under cover of night.
-* Lady Harrowmoor’s dark secret: The nobles of Harrowmoor Keep consort with a monstrous entity in the lake, which grants them wisdom in exchange for their mortal souls. Partly true: The Harrowmoor family does consult with an entity in the lake (see 1105), but it does not claim their souls.
+* Lady Harrowmoor’s dark secret: The nobles of Harrowmoor Keep consort with a monstrous entity in the lake, which grants them wisdom in exchange for their mortal souls.
 * Magical attire: The high-class tailor, Brandybile, has contacts in the Shadow House and can craft magical clothing.
 
 ## fort vulgar rumours
