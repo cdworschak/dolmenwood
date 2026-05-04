@@ -8,6 +8,38 @@
 
 [sessions 1 - 10](sess110.md)
 
+## session 12
+
+* absent: Matt
+* XP from treasure / player: 0 XP	
+* XP from deeds / player: 200 XP
+	* two new hexes entered (100); met Mother and her Daughter (100); rumour: the wizard of Prigwort - P (400); rumour: Mosslign bones - F (200)
+* XP / player: 200 XP (210/220/230)
+
+Gwendyn and Bagnack caroused in Prigwort for 2 nights and woke up with a terrible hangover. (Matt to roll d8 for the damage ;)) 
+
+Gwendyn realised that there is a strange racist undertone in the place wrt non-humans, especially at the Clashed Antlers Inn.
+Tristan spoke to the Reverend Mother Liane Smunk (part Breggle) who told him all about Austache Jongle running a local group of youths that blame the problems the town faces on non-humans.
+
+She also heard that Mossling bones were used to as a special ingredient to make the drinks coming from Prigwort so tasty.
+
+She followed up on the rumour and found it to be non-sense. Newton returned to Jilly at the Swinney Tower and he brought the payment as expected. Jilly confirmed tha the Earl of Yellow seems to be a patron of Prigwort and that seems to be the reason for the special quality of the brews.
+
+Newton gets an audience with Mostlemyre Drouge and offers him a Drune scroll as an invcentive to take him on as apprentice.
+He agrees if Newton helps him return a Moonstone Ring from Sir Chydes Tomb in the south-east.
+
+After a week of recuperation and shopping they set off to seek the Tomb. On the way they find a strange bakery run a by a woman who calls herself mother. They buy a few lovely bits and continue to their destination before nightfall.
+
+They notice an acidic stench drifting on the wind hat has Bagnack agitated somehow:
+The source of this miasma is a great mound of guano, 50 yards across, created by the woodgrues of this region of Dolmenwood, who travel from miles around to relieve themselves on the communal heap.
+
+They approach the actual Tomb: before it seven standing stones with Drunic writing, showing the downfall of Frost Elves. An altar in the middle with a Stag's skeleton covered i na strange green goo, twitching as if alive.
+
+They go around this to get to the Tomb proper and find a ston slab in the way. Behind the burial mound the PCs find a hole and tracks leading away from it, Gwendyn reckons it was at least three slug or worm like createures the size of a dog.
+A strange wind picks up and throws them to their feet, some get injured.
+
+The group removes the stone slab after some effort and is ready to enter the tomb.
+
 ## session 11
 
 * absent: Matt
