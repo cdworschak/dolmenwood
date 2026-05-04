@@ -12,9 +12,9 @@
 
 * absent: Matt
 * XP from treasure / player: 0 XP	
-* XP from deeds / player: 200 XP
-	* two new hexes entered (100); met Mother and her Daughter (100); rumour: the wizard of Prigwort - P (400); rumour: Mosslign bones - F (200)
-* XP / player: 200 XP (210/220/230)
+* XP from deeds / player: 225 XP
+	* two new hexes entered (100); met Mother and her Daughter (100); rumour: the wizard of Prigwort - P (400); rumour: Mossling bones - F (200); found and learnt about the Dung Heap (100)
+* XP / player: 225 XP (236/247/258)
 
 Gwendyn and Bagnack caroused in Prigwort for 2 nights and woke up with a terrible hangover. (Matt to roll d8 for the damage ;)) 
 
