@@ -26,7 +26,7 @@ Joremy tries to find a clue in the actual mirror and can see writing, as he free
 They cover the mirror and move on to another room filled with statues holding real weapons and a Mural under a layer of fungus. Newton destroys the fungus layer and uncovers a mural of Sir Chyde holding his sword as well as the name of one of his hunting dogs.
 Tristan takes the sword from a statue that looks most like the one Sir Chyde is holding.
 
-In the next area they see status of dogs near a large door, with inscription: call to the companions. Give the GM code work sword for 10 extra xp.
+In the next area they see status of dogs near a large door, with inscription: call to the companions. Give the GM code word sword for 10 extra xp.
 
 They continue south and see 5 burial coffers, a large gap in the ground, and two dancing skeletons covered in a green slime, floating in the air, dancing. They discover this is Sir Chydes family grave and the skeletons beckon to them to join the dance.
 Joremy turns them and they continue, revealing the initial chamber. They go west and find another room with a statue and steps down.
