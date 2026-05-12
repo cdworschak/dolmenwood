@@ -8,6 +8,35 @@
 
 [sessions 1 - 10](sess110.md)
 
+## session 13
+
+* absent: Matt, Sarah
+* XP from treasure / player: 0 XP (not in safety yet)
+* XP from deeds / player: 100 XP
+	* learn about the mirror (100); find the codewords to enter the chamber (100); learn about Sir Chydes invovlement with Elves (100).
+* XP from enemies (60+70+90)
+* XP / player: 173 XP (181/190/198)
+
+Everyone made their way into the tob of Sir Chyde, down the stairs and into a room with objects ralted to the church. Once Newton sets foot into the chamber, the objects fly off and tell them of their sins and attack them.
+Joremy rebukes (turns) the objects and they stay still, probably left here by the church to guard the tomb.
+
+In another room they encounter a silver mirror with symbols of the church near some steps down. Tristan walks in front of it to check the stairs and is now suddenly frozen. Newton and Joremy try to figure out what to do but are stumped by this effect.
+Joremy tries to find a clue in the actual mirror and can see writing, as he freezes, telling him yo anoint the believers. Newton grabs a vial of holy water from Jomrey and applies it to everyone. They unfreeze.
+
+They cover the mirror and move on to another room filled with statues holding real weapons and a Mural under a layer of fungus. Newton destroys the fungus layer and uncovers a mural of Sir Chyde holding his sword as well as the name of one of his hunting dogs.
+Tristan takes the sword from a statue that looks most like the one Sir Chyde is holding.
+
+In the next area they see status of dogs near a large door, with inscription: call to the companions. Give the GM code work sword for 10 extra xp.
+
+They continue south and see 5 burial coffers, a large gap in the ground, and two dancing skeletons covered in a green slime, floating in the air, dancing. They discover this is Sir Chydes family grave and the skeletons beckon to them to join the dance.
+Joremy turns them and they continue, revealing the initial chamber. They go west and find another room with a statue and steps down.
+
+Next they find an old chapel of St.Sedge: rad candle and altar, and an old tapestry. Newton checks behind and finds a locked door, swollen with damp. They brak it open and attract the attention of 6 Wormtongues. They are victorious.
+
+In the chamber are a lage hole leading upwards, a wobbling flagstones and an ancient writing desk. In the hole they find artefacts of th church. In the desk anothe clue to the name of the companion.
+
+They return to the main chamber and call out the name of the dogs and the lat chamber opens where they find the remains and gohst of Sir Chyde.
+
 ## session 12
 
 * absent: Matt
