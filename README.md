@@ -8,6 +8,27 @@
 
 [sessions 1 - 10](sess110.md)
 
+## session 14
+
+* absent: Matt
+* XP / player: as per whatsapp
+
+The group vows to bring his ring to his fiance in Fairy, downstairs apprently.
+
+They head down the stairs and Newton goes first, feeling a familiar sensation, nostalgic. He somehow gets into the real of the cold Prince, a place sealed off?
+
+The group all continue and find themselves on a frozen lake with a tower on it, surrounded by woods, wolves howling.
+
+A troll carrying a goblin opens the door and asks for inviations, they have none, and he offers them a mushroom instead. puggle tries one and there seems to be no effect. Still the group wants none of it and they are out i nthe cold.
+
+NEwton floats up the tower and checks out the interior, all the way up he sees a femalde figure in her chambers, they assume it's the Princess but she can't hear them properly.
+
+Ultimately they trick the Goblin and Troll with the green goo and storm up to the chambers past a wedding feast. The Princess itnervenes as she was notified and they hand over the ring.
+
+The wedding proceeds and she grants them a boon and riches. 
+
+On the way back they realise that some time must have passed in the mortal world and they find their mule/goat missing as well as the entrance re-sealed.
+
 ## session 13
 
 * absent: Matt, Sarah
