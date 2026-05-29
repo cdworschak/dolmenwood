@@ -8,6 +8,22 @@
 
 [sessions 1 - 10](sess110.md)
 
+## session 15
+
+* absent: Matt
+* XP / player: 62
+
+The group leaves the tomb and camps a mile a way near the path leadign to Orbswallow, follwing the tracks of their beasts of burden.
+
+The next day they arrive in Orbswallow, Gwendyn is besieged by her family and and friends, they also find their animals, who were brought here by a group of adventurers, lead by Skrix, a Woodgrue.
+Two days have passed as they spent the night in fairy.
+
+The nutcap war has been going on long and they get asked about how they can help but there's no easy solution. Gwendyn vows to send help and reinforcements.
+
+After a while they return to Prigwort where Newton tries to find a solution to the loss of the ring, the Wizard is open to the possibilities of the gateway to fairy. Joremy reports the same to his superiors.
+
+A letter arrives that summons Joremy to the headquarters of the chruch in Brackenwold regarding accusations of treason made by Malbleat.
+
 ## session 14
 
 * absent: Matt
