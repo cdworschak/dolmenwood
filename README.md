@@ -8,6 +8,19 @@
 
 [sessions 1 - 10](sess110.md)
 
+## session 16
+
+* absent: ?
+* XP / player
+
+After some preperations they all mvoe towards Brackenwold but plan to split up when mostly there. Tristan, Backnag and Joremy go to Brackenwold to speak to the Abbot.
+The others go to Mulbrecks estate to deliver the mind moss.
+
+At Brackenwold they find a delegation of Malbleat has been around for a while waiting for "justice" to be pronounced by the church and the duke.
+They speak to the Abbot who shows them a replica of the book Malbleat used to summon his ancestor, a ploy developed by the order of St signis, who sent out multiple delegations with fake books to overwhelm Malbleats agents.
+
+At Mulbrecks estate they all arrive and are welcomed after some explaining, meeting a poisoned member of the order of St. Signis. They canme from Old Spindel's domain from the south.
+
 ## session 15
 
 * absent: Matt
