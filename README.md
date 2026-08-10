@@ -8,6 +8,24 @@
 
 [sessions 1 - 10](sess110.md)
 
+## session 17
+
+* absent: none
+* XP / player:
+
+The group decides to reconvene at Mulbreck's estate after the Duke calls for Tristan nad Joremy to be brought in to face legal consequences. They find that a few individuals are on their side but their situation is politically loaded.
+
+At the estate Tristan gets made a knight of Mulbreck, with a small ceremony.
+
+They decide to go into the woods in the south to face Old Spindel and recover the book and perhaps rescue or recover Farnham and his guard.
+
+Besides obvious spider activity they find a faded document nailed to a tree:
+"MADAME AMBROSINE’S TRAVELLING MARIONETTE SHOW — Tragedies, Comedies, and Wonders for All Ages"
+
+They continue and find a way along the canopy, two other paths leading to a charnel grave and another to a noisy space that sounds like a stage-play being enacted.
+
+They choose to go towards the grave and get ambushed by 4 Giant Spiders, they take them out but Tristan and Joremy are envenomed, with hours to live!
+
 ## session 16
 
 * absent: ?
