@@ -11,7 +11,7 @@
 ## session 17
 
 * absent: none
-* XP / player:
+* XP / player: 72xp
 
 The group decides to reconvene at Mulbreck's estate after the Duke calls for Tristan nad Joremy to be brought in to face legal consequences. They find that a few individuals are on their side but their situation is politically loaded.
 
@@ -28,8 +28,8 @@ They choose to go towards the grave and get ambushed by 4 Giant Spiders, they ta
 
 ## session 16
 
-* absent: ?
-* XP / player
+* absent: none
+* XP / player: 60xp
 
 After some preperations they all mvoe towards Brackenwold but plan to split up when mostly there. Tristan, Backnag and Joremy go to Brackenwold to speak to the Abbot.
 The others go to Mulbrecks estate to deliver the mind moss.
